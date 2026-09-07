@@ -16,7 +16,7 @@ nav.querySelectorAll("a").forEach((link) => {
 
 // ==================== Contact Form ====================
 // Sign up at formspree.io, create a form, and paste your endpoint below to receive submissions by email.
-const FORM_ENDPOINT = "https://formspree.io/f/https://formspree.io/f/xrpgyyan";
+const FORM_ENDPOINT = "https://formspree.io/f/xrpgyyan";
 
 const form = document.getElementById("contactForm");
 const formNote = document.getElementById("formNote");
