@@ -45,7 +45,7 @@ form.addEventListener("submit", async (e) => {
 
     if (response.ok) {
       formNote.textContent =
-        "Thanks! Your request has been sent — I'll be in touch within 1 business day.";
+        "Thanks! Your request has been sent —I'll be in touch with you .";
       formNote.style.color = "#2f6bff";
       form.reset();
     } else {
